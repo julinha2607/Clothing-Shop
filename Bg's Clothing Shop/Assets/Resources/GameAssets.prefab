@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1142305761062797998
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7738353814646191526}
+  - component: {fileID: -7071902436019300243}
+  m_Layer: 0
+  m_Name: GameAssets
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7738353814646191526
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1142305761062797998}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 407.08942, y: 171.17105, z: -1.1617155}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &-7071902436019300243
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1142305761062797998}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4cbb76a3076647b49a86d189f252d003, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  witchHatSprite: {fileID: -800101858, guid: 1795e648a1e668e4a8321169c6f6427e, type: 3}
+  brownHairSprite: {fileID: 12507300, guid: b681644472a53c94b940154990c08d06, type: 3}
+  yellowOutfitSprite: {fileID: 823200174, guid: 31a14dc53816de948ba032c13ad7355f, type: 3}
+  blueOutfitSprite: {fileID: -1899822421, guid: d32d411a8495e2f4d8089129a9fd36cd, type: 3}
+  womenUnderwearSprite: {fileID: 0}

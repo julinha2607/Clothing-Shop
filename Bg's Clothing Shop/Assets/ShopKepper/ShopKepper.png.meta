@@ -1,0 +1,348 @@
+fileFormatVersion: 2
+guid: 3a193848c8d389f4c9eb72aa4a07aa1a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 333382803326201578
+    second: EXPORT (2)_0
+  - first:
+      213: 3073021464058892558
+    second: EXPORT (2)_1
+  - first:
+      213: 4988752278279130801
+    second: EXPORT (2)_2
+  - first:
+      213: -5737458929245361700
+    second: EXPORT (2)_3
+  - first:
+      213: 7594536691759110762
+    second: EXPORT (2)_4
+  - first:
+      213: -5355293826403609843
+    second: EXPORT (2)_5
+  - first:
+      213: 464378795544940807
+    second: EXPORT (2)_6
+  - first:
+      213: 4954201616355361674
+    second: EXPORT (2)_7
+  - first:
+      213: 6706893976896285130
+    second: EXPORT (2)_8
+  - first:
+      213: -2756146802940670171
+    second: EXPORT (2)_9
+  - first:
+      213: 6521732419647995193
+    second: EXPORT (2)_10
+  - first:
+      213: 6442386570805944571
+    second: EXPORT (2)_11
+  - first:
+      213: 5185426349936013449
+    second: EXPORT (2)_12
+  - first:
+      213: -2593098363100437389
+    second: EXPORT (2)_13
+  - first:
+      213: -761581998088165820
+    second: EXPORT (2)_14
+  - first:
+      213: 4870089670406200878
+    second: EXPORT (2)_15
+  - first:
+      213: 9103774061649690171
+    second: EXPORT (2)_16
+  - first:
+      213: 3738021525278377017
+    second: EXPORT (2)_17
+  - first:
+      213: 6347813038107732699
+    second: EXPORT (2)_18
+  - first:
+      213: -454726115553688030
+    second: EXPORT (2)_19
+  - first:
+      213: 7523406051149110120
+    second: EXPORT (2)_20
+  - first:
+      213: 5148159522515454886
+    second: EXPORT (2)_21
+  - first:
+      213: -3174205756479804096
+    second: EXPORT (2)_22
+  - first:
+      213: -3145600188642597981
+    second: EXPORT (2)_23
+  - first:
+      213: 1016410927040087309
+    second: EXPORT (2)_24
+  - first:
+      213: -5830219398901780971
+    second: EXPORT (2)_26
+  - first:
+      213: -977627134430890721
+    second: EXPORT (2)_27
+  - first:
+      213: -3687772762685855584
+    second: EXPORT (2)_28
+  - first:
+      213: -5038670940583458958
+    second: EXPORT (2)_29
+  - first:
+      213: -1895614531058365818
+    second: EXPORT (2)_30
+  - first:
+      213: -5000947539443308099
+    second: EXPORT (2)_31
+  - first:
+      213: -172830146718218003
+    second: EXPORT (2)_32
+  - first:
+      213: 1416679454995616765
+    second: EXPORT (2)_33
+  - first:
+      213: -7298098662043365359
+    second: EXPORT (2)_34
+  - first:
+      213: 1158632139154236376
+    second: EXPORT (2)_35
+  - first:
+      213: -8079192716690207259
+    second: EXPORT (2)_36
+  - first:
+      213: 7766342340321025908
+    second: EXPORT (2)_37
+  - first:
+      213: 7174972740867952988
+    second: EXPORT (2)_38
+  - first:
+      213: 3854101366322746358
+    second: EXPORT (2)_39
+  - first:
+      213: -3875800216780326290
+    second: EXPORT (2)_40
+  - first:
+      213: 8545969274081433606
+    second: EXPORT (2)_41
+  - first:
+      213: 3728758404654033921
+    second: EXPORT (2)_42
+  - first:
+      213: -3671164263393038162
+    second: EXPORT (2)_43
+  - first:
+      213: 5699032090750237178
+    second: EXPORT (2)_44
+  - first:
+      213: 4318550469016313427
+    second: Shade_0
+  - first:
+      213: 7851573980061469903
+    second: Shade_1
+  - first:
+      213: 4074807075536510874
+    second: EXPORT (2)_47
+  - first:
+      213: -6850433693447592697
+    second: EXPORT (2)_48
+  - first:
+      213: -4684628711648490238
+    second: EXPORT (2)_49
+  - first:
+      213: 5199496759315222645
+    second: EXPORT (2)_50
+  - first:
+      213: -8690465714316191496
+    second: EXPORT (2)_51
+  - first:
+      213: -6523910681868864633
+    second: EXPORT (2)_52
+  - first:
+      213: 2428189962023651208
+    second: EXPORT (2)_53
+  - first:
+      213: 8871211510274987259
+    second: EXPORT (2)_54
+  - first:
+      213: 2488325042269146774
+    second: EXPORT (2)_55
+  - first:
+      213: -2600427397688867139
+    second: EXPORT (2)_56
+  - first:
+      213: 3193242115172011618
+    second: EXPORT (2)_57
+  - first:
+      213: -8688433057002864416
+    second: EXPORT (2)_58
+  - first:
+      213: 8287654939305760012
+    second: EXPORT (2)_59
+  - first:
+      213: 1111258350298083698
+    second: EXPORT (2)_60
+  - first:
+      213: -52291467083720501
+    second: EXPORT (2)_61
+  - first:
+      213: -3565607123581684164
+    second: EXPORT (2)_62
+  - first:
+      213: 8020979198567051641
+    second: EXPORT (2)_63
+  - first:
+      213: 5320724909439186703
+    second: EXPORT (2)_64
+  - first:
+      213: -3522708793324367774
+    second: EXPORT (2)_65
+  - first:
+      213: 7289767633949211897
+    second: EXPORT (2)_66
+  - first:
+      213: 2802756392820156839
+    second: EXPORT (2)_67
+  - first:
+      213: 6364925694769716633
+    second: EXPORT (2)_68
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ShopKepper_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1646563a13002684d92afeeb0dbf2540
+      internalID: -530756051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ShopKepper_0: -530756051
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

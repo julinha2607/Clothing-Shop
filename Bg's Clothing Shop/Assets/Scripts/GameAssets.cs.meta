@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4cbb76a3076647b49a86d189f252d003
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - witchHatSprite: {fileID: -800101858, guid: 1795e648a1e668e4a8321169c6f6427e, type: 3}
+  - brownHairSprite: {fileID: 12507300, guid: b681644472a53c94b940154990c08d06, type: 3}
+  - yellowOutfitSprite: {fileID: 823200174, guid: 31a14dc53816de948ba032c13ad7355f, type: 3}
+  - blueOutfitSprite: {fileID: -1899822421, guid: d32d411a8495e2f4d8089129a9fd36cd, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

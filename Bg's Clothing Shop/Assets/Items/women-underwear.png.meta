@@ -1,0 +1,1838 @@
+fileFormatVersion: 2
+guid: 4c87b29039d7cfe4682a2345560633b4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: women-underwear_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 480
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ff36b188d5be7478751da2658342fd
+      internalID: 1766436901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: women-underwear_1
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 477
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83185c288da06ca44bab2a78c2c98e70
+      internalID: -476011000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: women-underwear_2
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 481
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cabd6d0c78dbc74fbfc1146241b36e3
+      internalID: 122077942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: women-underwear_3
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 477
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69363091ce3521449e47ac327bf1e02
+      internalID: -868485464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: women-underwear_4
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 475
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04fa318ebd1af1c4195883230eb870e8
+      internalID: -33153386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: women-underwear_5
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 473
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10bfc2608c796e344ba3dfc02827bd68
+      internalID: 645621299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: women-underwear_6
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 475
+        width: 70
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2380d4b24395a44b3f9989264b7df6
+      internalID: -1780101618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: women-underwear_7
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 412
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b11d18ce347ac40a7455eabba5b452
+      internalID: -1807887536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: women-underwear_8
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 411
+        width: 6
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a090cdf0967fbe247ab0c95283aa1b1e
+      internalID: 986608656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: women-underwear_9
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 411
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e672c0c9a010ae6449f0e3199f683252
+      internalID: 1263893217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: women-underwear_10
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 417
+        width: 6
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23f2cc7fe99d064badf18e8634c1a6b
+      internalID: 1392064089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: women-underwear_11
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 412
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd038d00aa981514aae99691c7b60c80
+      internalID: 683317539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: women-underwear_12
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 409
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9b53bfc453ec445a11df3b58680517
+      internalID: 633413827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: women-underwear_13
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 414
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f77424a69d45d84b87501ba0f58ab73
+      internalID: 610486121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: women-underwear_14
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 408
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32d23179a4ea6f44bc56955ddab5285
+      internalID: -503760910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: women-underwear_15
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 409
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be0c9ade8a541548821076f24ba19b7
+      internalID: -2061473775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: women-underwear_16
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 416
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ce995a8bf88184bb50e3e88d05ae94
+      internalID: 581615858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: women-underwear_17
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 412
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1b7be53b9f2714bbe88c9b96c77278
+      internalID: 2066531385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: women-underwear_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b7086ce7cdbda4a94f017b09f6de1c
+      internalID: 1062364983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: women-underwear_19
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 348
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5040eccf32480544f88dac9846c73c9f
+      internalID: 622251157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: women-underwear_20
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 347
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2fd4a13568d8240b99a2c85ce73c1f
+      internalID: 1592146440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: women-underwear_21
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 349
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6c30ddc0900b3459495aae094db8d6
+      internalID: -1068041012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: women-underwear_22
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 353
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd37af80e786d24b86cf4fd6c3fea42
+      internalID: 1378786887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: women-underwear_23
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 347
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73b77d48412cd44795e2be5a91689bb
+      internalID: -1558490153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: women-underwear_24
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 352
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c94136f45fe814fb9dce54e120e9ad
+      internalID: 1671605637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: women-underwear_25
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 348
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc21eb8c67789af49b497619150256b6
+      internalID: -1132234887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: women-underwear_26
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 347
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44cb932df91036444b23bed03b1b4742
+      internalID: 1738046508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: women-underwear_27
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 347
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b60482483ca024e95d33163d6973cc
+      internalID: 1839536849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: women-underwear_28
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 346
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a78cfe250959524ba73d50d92e94bb7
+      internalID: 1234864794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: women-underwear_29
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 288
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e1c69e79486364284b168c3cff5a31
+      internalID: 394225601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: women-underwear_30
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 284
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee48bb39b9b8354c8af94b49436f287
+      internalID: 214301177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: women-underwear_31
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 283
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447a1fa39f1d30046a0e16580318b08c
+      internalID: -1348958349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: women-underwear_32
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 285
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91a353e26442fc44ac606314f902324
+      internalID: 2017753092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: women-underwear_33
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 289
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ac943a45abd904ebc6c7b83b829c46
+      internalID: 374775523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: women-underwear_34
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 283
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5240b9dd8f2bbc94f83a281c6d3648de
+      internalID: 119579540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: women-underwear_35
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 288
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf97d1a77f4c3b43b6ceaa800120595
+      internalID: 181100746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: women-underwear_36
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 284
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9854551d0aec6348a5d4539e9277d96
+      internalID: -457168056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: women-underwear_37
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 283
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31cff6b9c6030164f8dc3d6ff77a6b62
+      internalID: 1342088303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: women-underwear_38
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 283
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d20d172f338ff45acc2d5ad63a613c
+      internalID: -2098794576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: women-underwear_39
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 282
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c12f5a3624faae439322914a63651ce
+      internalID: 1316798005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: women-underwear_40
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 222
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898c10327d880bf4b90080e6a4f3f021
+      internalID: -1060891886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: women-underwear_41
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 223
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6a0c8c9eedbc34691c4c929860b718
+      internalID: 724134045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: women-underwear_42
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 223
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ba1e065bbdbaa4a9527447f87fccec
+      internalID: -2075940778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: women-underwear_43
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 222
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926b91bc59bbfc944a8d8df580a4e971
+      internalID: 695572060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: women-underwear_44
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 223
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d377ff54d7e0f0049ad5b94f34913f1b
+      internalID: 1723380442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: women-underwear_45
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 223
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3315a1f2d8efb243a0df003dd2cdc5d
+      internalID: -684569734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: women-underwear_46
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 224
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c95ad45eb3728746bf6ab79cf86d04a
+      internalID: -176575765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: women-underwear_47
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 224
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f1c513f04c73e4fb0d9e7121b6ee9e
+      internalID: 1921347603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: women-underwear_48
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 218
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468079e9444df8e488b39b1ed6f4fbe6
+      internalID: -608413483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: women-underwear_49
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 218
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e428ad6d5bffcb24d8f8d2b59b18bf40
+      internalID: 323229403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: women-underwear_50
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 218
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65169582a3c67a46a3a25d7fa24cb9c
+      internalID: 1973075407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: women-underwear_51
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 218
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001a6ea677e8b284aa9d91df81c51f95
+      internalID: -1199866571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: women-underwear_52
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 218
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f203df58745f4440b98ac0d43ae2dda
+      internalID: 1480728835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: women-underwear_53
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 218
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb853a555eb6ec408246ca4d7610624
+      internalID: -784431718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: women-underwear_54
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 155
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a2521b3b138f948a2c067d52b4dc96
+      internalID: -529451486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: women-underwear_55
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 156
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f0d2dbb4beb734cad0bb84ce7e2254
+      internalID: 1615318185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: women-underwear_56
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 161
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee9356af664332489644e2cbf981d78
+      internalID: 1097049497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: women-underwear_57
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 92
+        width: 8
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5e63fbb6a82e1409d17944b19af3dd
+      internalID: -432359525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: women-underwear_58
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 156
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b725b76f09a32c46bba5ac8c51a26ec
+      internalID: -878771696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: women-underwear_59
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 161
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822734bd87fbbf8469a73f93c95746ee
+      internalID: -1099488910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: women-underwear_60
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 163
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60216c1e7028a9b45822dbaf267e28b7
+      internalID: -2103719022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: women-underwear_61
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 163
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41ba28b8e76f0744b6e80f3f0c3ded1
+      internalID: -1164888048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: women-underwear_62
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 159
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d90ce165ea58d4786eb6eeeb863783
+      internalID: 1450790195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: women-underwear_63
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 159
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1223b31e92b7ee64b9af759e5f4bce65
+      internalID: 1829278102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: women-underwear_64
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 28
+        width: 134
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88983f9fe68c64c4a9e18aa7fff98d6f
+      internalID: 871956923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: women-underwear_65
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 155
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e830d13c7ea484db44eafffd860bd8
+      internalID: 2083531557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: women-underwear_66
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 91
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581ca20ad18030d4ab5520f37b2eacda
+      internalID: -1032335191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: women-underwear_67
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 91
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9181a6c99e4d96e4d9e27ee0865fe4d9
+      internalID: 1811920069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: women-underwear_68
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 95
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8ee8e55536bc2458552b8c72afe9cb
+      internalID: 406043721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: women-underwear_69
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 97
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2667b75d3c1b14e43a07f8d8404dc995
+      internalID: -390657270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: women-underwear_70
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 95
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890367305479475458ee8bb8244af6d3
+      internalID: 1724478318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: women-underwear_71
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 91
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d80c2f86c5d3640b57935318b6b734
+      internalID: -318421939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: women-underwear_72
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 27
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2238453718e57a4087978e8afea98ca
+      internalID: -528028391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: women-underwear_73
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 27
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd1b4964ba0cb24f8e1c076906adca1
+      internalID: -177476770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: women-underwear_74
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 31
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7108684c9c34c04194d089c0b17ce26
+      internalID: -1243922115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: women-underwear_75
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 33
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ad2705e5ab1654baf2e5dc5b99aab9
+      internalID: 1904066767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: women-underwear_76
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 31
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91d011a43f29014f82ffce8a04d7e47
+      internalID: -525358098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: women-underwear_77
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 27
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e0d3c6e74983642848e348bac372ba
+      internalID: 1941126455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      women-underwear_48: -608413483
+      women-underwear_42: -2075940778
+      women-underwear_7: -1807887536
+      women-underwear_0: 1766436901
+      women-underwear_26: 1738046508
+      women-underwear_64: 871956923
+      women-underwear_54: -529451486
+      women-underwear_21: -1068041012
+      women-underwear_17: 2066531385
+      women-underwear_20: 1592146440
+      women-underwear_50: 1973075407
+      women-underwear_61: -1164888048
+      women-underwear_12: 633413827
+      women-underwear_29: 394225601
+      women-underwear_25: -1132234887
+      women-underwear_8: 986608656
+      women-underwear_33: 374775523
+      women-underwear_59: -1099488910
+      women-underwear_55: 1615318185
+      women-underwear_57: -432359525
+      women-underwear_34: 119579540
+      women-underwear_76: -525358098
+      women-underwear_71: -318421939
+      women-underwear_22: 1378786887
+      women-underwear_23: -1558490153
+      women-underwear_11: 683317539
+      women-underwear_75: 1904066767
+      women-underwear_38: -2098794576
+      women-underwear_39: 1316798005
+      women-underwear_60: -2103719022
+      women-underwear_68: 406043721
+      women-underwear_37: 1342088303
+      women-underwear_53: -784431718
+      women-underwear_31: -1348958349
+      women-underwear_10: 1392064089
+      women-underwear_30: 214301177
+      women-underwear_19: 622251157
+      women-underwear_27: 1839536849
+      women-underwear_72: -528028391
+      women-underwear_41: 724134045
+      women-underwear_66: -1032335191
+      women-underwear_43: 695572060
+      women-underwear_18: 1062364983
+      women-underwear_65: 2083531557
+      women-underwear_52: 1480728835
+      women-underwear_2: 122077942
+      women-underwear_51: -1199866571
+      women-underwear_62: 1450790195
+      women-underwear_6: -1780101618
+      women-underwear_15: -2061473775
+      women-underwear_16: 581615858
+      women-underwear_9: 1263893217
+      women-underwear_67: 1811920069
+      women-underwear_77: 1941126455
+      women-underwear_36: -457168056
+      women-underwear_3: -868485464
+      women-underwear_13: 610486121
+      women-underwear_69: -390657270
+      women-underwear_4: -33153386
+      women-underwear_63: 1829278102
+      women-underwear_35: 181100746
+      women-underwear_49: 323229403
+      women-underwear_70: 1724478318
+      women-underwear_46: -176575765
+      women-underwear_14: -503760910
+      women-underwear_5: 645621299
+      women-underwear_45: -684569734
+      women-underwear_40: -1060891886
+      women-underwear_56: 1097049497
+      women-underwear_58: -878771696
+      women-underwear_44: 1723380442
+      women-underwear_47: 1921347603
+      women-underwear_1: -476011000
+      women-underwear_73: -177476770
+      women-underwear_24: 1671605637
+      women-underwear_32: 2017753092
+      women-underwear_74: -1243922115
+      women-underwear_28: 1234864794
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
